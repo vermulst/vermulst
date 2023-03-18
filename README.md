@@ -5,7 +5,6 @@
 I'm a student and code in my spare time, I mostly code in Java and Java languages. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
    <p align="left">
-
       <a href="mailto:sam.vermulst@gmail.com">
          <img alt="Gmail" title="Send me an e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a>
