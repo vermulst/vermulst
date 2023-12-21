@@ -37,8 +37,3 @@ I'm a student and code in my spare time, I mostly code in Java and Java language
 ![GitHub Streak](https://streak-stats.demolab.com?user=vermulst&theme=gruvbox&border_radius=4.5)
 
 #
-
-<details>
- <summary><h3>👨‍💻 vermulst's Coding Journey</h3></summary>
-   Work in progress....
-   working on the best minecraft server in existence..............
