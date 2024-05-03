@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Problem Solver)`**
 
-I'm a student and code in my spare time, I mostly code in Java and Java languages. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+I'm a student and code in my spare time.
 
    <p align="left">
       <a href="mailto:sam.vermulst@gmail.com">
