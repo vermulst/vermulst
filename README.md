@@ -1,6 +1,4 @@
-# 🏄‍♂️ Sam Vermulst
-
-**`Digital Craftsman (Developer/Problem Solver)`**
+# Sam Vermulst
 
 I'm a student and code in my spare time.
 
@@ -9,8 +7,6 @@ I'm a student and code in my spare time.
          <img alt="Gmail" title="Send me an e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a>
          <img alt="Intellij" title="My favorite editor" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
-      <a>
-         <img alt="Operating System" title="My OS of choice: I use windows 10 only" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
    </p>
 
 ---
@@ -31,8 +27,6 @@ I'm a student and code in my spare time.
 ### 📊 Stats
 
 ![vermulst's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermulst&show_icons=true&theme=gruvbox)
-<!--![Rik's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vermulst&theme=gruvbox&)-->
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vermulst&theme=gruvbox&border_radius=4.5)
 
